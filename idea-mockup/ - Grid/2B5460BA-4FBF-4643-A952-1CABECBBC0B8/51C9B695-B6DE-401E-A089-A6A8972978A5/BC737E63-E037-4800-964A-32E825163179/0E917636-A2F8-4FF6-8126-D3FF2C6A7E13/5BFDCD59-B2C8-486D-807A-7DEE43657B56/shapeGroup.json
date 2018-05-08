@@ -39,7 +39,34 @@
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
-    "sharedObjectID": "D0B4F45D-E1D5-4424-A90C-8C26C4A18CE7"
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.4000000059604645
+    },
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4745098039215686,
+          "green": 0.1960784313725488,
+          "red": 0.0980392156862745
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "D0B4F45D-E1D5-4424-A90C-8C26C4A18CE7",
+    "startDecorationType": 0
   },
   "windingRule": 1
 }
