@@ -1,0 +1,35 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "D0B4F45D-E1D5-4424-A90C-8C26C4A18CE7",
+  "name": "Gutters / Small",
+  "value": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.4000000059604645
+    },
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9686274509803922,
+          "green": 0.5098039215686274,
+          "red": 0.2431372549019608
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "D0B4F45D-E1D5-4424-A90C-8C26C4A18CE7",
+    "startDecorationType": 0
+  }
+}

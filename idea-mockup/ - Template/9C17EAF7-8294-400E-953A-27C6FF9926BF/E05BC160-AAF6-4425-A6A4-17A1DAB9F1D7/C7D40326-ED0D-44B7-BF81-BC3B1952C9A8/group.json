@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "C7D40326-ED0D-44B7-BF81-BC3B1952C9A8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 518,
+    "width": 263,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "196B2F59-30D2-4770-86D9-818E01F93436"
+    },
+    {
+      "class": "group",
+      "id": "9A6722EC-B736-4372-AA16-E312BF3A061F"
+    },
+    {
+      "class": "group",
+      "id": "AD02AC45-0DF4-4025-BADD-2778662CD381"
+    },
+    {
+      "class": "group",
+      "id": "EB06FED5-9FAF-41FA-877B-9408C0370EED"
+    },
+    {
+      "class": "group",
+      "id": "7EFC7942-3D2E-4EDF-AB2C-113C0CD482C8"
+    },
+    {
+      "class": "group",
+      "id": "F1CF98E0-C2F5-4E56-97D0-2BBBAC7C9527"
+    },
+    {
+      "class": "group",
+      "id": "D73F9768-6E28-4E9A-910E-B102E1D1BF05"
+    },
+    {
+      "class": "group",
+      "id": "44F59189-043F-4D4A-B9EF-4D3CEBA21D44"
+    },
+    {
+      "class": "group",
+      "id": "50B67925-FB62-4FAF-BACA-5DB8772BDA2E"
+    },
+    {
+      "class": "group",
+      "id": "231E8261-5654-4840-B7FB-4FA2DC77116C"
+    },
+    {
+      "class": "group",
+      "id": "D52AB9A2-5651-4161-B197-99F798710110"
+    },
+    {
+      "class": "group",
+      "id": "94D44366-0999-41C4-810C-8B490AF67C6E"
+    },
+    {
+      "class": "group",
+      "id": "2584A719-AF12-487E-B4F0-0171C318E445"
+    },
+    {
+      "class": "group",
+      "id": "203AAD81-3FC5-468F-9540-22F1B62E1C0D"
+    },
+    {
+      "class": "group",
+      "id": "19279162-B92A-4316-8BAD-D4BCFD9FB110"
+    },
+    {
+      "class": "group",
+      "id": "83501762-A257-4501-AE6B-D8CD725DAF82"
+    }
+  ],
+  "name": "Group 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

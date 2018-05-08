@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGa2xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHgcIDxAcHR4fKywtLi8wMTIzOUZJTFBUXF1eX2BjZ1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgB2AA18QEFRoZSA4LVBvaW50IEdyaWTTERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAEYAVgBBfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdMREgogJRukISIjJIAIgAmACoALpCYnKCmADIANgA6AD4AQU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/VVVVVTCu1Iz/wAAAAAAAAIz/VVVVVTCu1Iz/VVVVVTCu10jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiNjhYTlNPYmplY3TXCjo7PD0+P0BBQkNEQ0VaTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWF4TGluZUhlaWdodF8QEk5TUGFyYWdyYXBoU3BhY2luZ18QD05TTWluTGluZUhlaWdodFtOU0FsaWdubWVudIAUgACAEiNAOAAAAAAAACNAKAAAAAAAABAE0hIKR0iggBPSNDVKS1dOU0FycmF5oko40jQ1TU5fEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNNTzhfEBBOU1BhcmFncmFwaFN0eWxl0gpRUlNfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AcgBbTERIKVVhbolZXgBeAGKJZWoAZgBqAG18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AwAAAAAAAAWUhlbHZldGljYdI0NWFiXxATTlNNdXRhYmxlRGljdGlvbmFyeaNhNjjSNDVkZV8QEE5TRm9udERlc2NyaXB0b3KiZjhfEBBOU0ZvbnREZXNjcmlwdG9y0jQ1aGlfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiajhfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRbW5Ucm9vdIABAAgAEQAaACMALQAyADcAWABeAGUAbgB1AIIAhACGAIgAmwCiAKoAtQC5ALsAvQC/AMMAxQDHAMkAywD4AQsBLQE0ATkBOwE9AT8BQQFGAUgBSgFMAU4BUAFUAVoBXwFlAW4BdwGAAYkBjgGZAaIBrwGyAbsBygHVAeEB8wIIAhoCJgIoAioCLAI1Aj4CQAJFAkYCSAJNAlUCWAJdAncCewKOApMCsAKyArQCuwK+AsACwgLFAscCyQLLAuEC9wMAAwoDDwMlAykDLgNBA0QDVwNcA3EDdAOJA5sDngOjAAAAAAAAAgEAAAAAAAAAbwAAAAAAAAAAAAAAAAAAA6U="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "243FEF70-DD27-47DB-B0FF-E0970C47CC12",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 800,
+    "x": -748,
+    "y": -31
+  },
+  "glyphBounds": "{{0, 0}, {117, 17}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "The 8-Point Grid",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "DE7F560C-07DF-4A7C-A810-A51472C0BB67"
+  },
+  "textBehaviour": 1
+}

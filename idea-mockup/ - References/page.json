@@ -1,0 +1,113 @@
+{
+  "_class": "page",
+  "do_objectID": "CD570BB8-67A0-4A20-AFF8-D64A3E8F37FD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -332,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "3C9634A4-6E63-4D43-BB14-8C7CE7A1CC69"
+    },
+    {
+      "class": "text",
+      "id": "3A985C5B-408C-4368-9B1A-96170DBF3522"
+    },
+    {
+      "class": "text",
+      "id": "4FC1BD22-07F5-4E66-847C-253B67AB3978"
+    },
+    {
+      "class": "text",
+      "id": "2F6E7E5F-0A53-47F2-8603-D8C1A6608CAD"
+    },
+    {
+      "class": "text",
+      "id": "C1992DAD-8A67-4866-BBAD-B646F508760F"
+    },
+    {
+      "class": "text",
+      "id": "66F25D0E-E764-4C00-9A64-38DA588A071E"
+    },
+    {
+      "class": "text",
+      "id": "243FEF70-DD27-47DB-B0FF-E0970C47CC12"
+    },
+    {
+      "class": "text",
+      "id": "1DA42998-E477-46A3-A6C2-B5500A65E0E5"
+    },
+    {
+      "class": "text",
+      "id": "520B8AD2-8C0D-4437-894E-7A857C3B2087"
+    },
+    {
+      "class": "text",
+      "id": "1C2FB813-4867-45E6-A3DC-61D76D71A262"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A8494E7B-CED0-47CF-8E41-3DAFD30EA148"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 73.33333333333333,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 40,
+    "isEnabled": false,
+    "numberOfColumns": 6,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 560
+  },
+  "name": " - References",
+  "nameIsFixed": true,
+  "resizingConstraint": 0,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -238,
+    "guides": [
+    ]
+  }
+}

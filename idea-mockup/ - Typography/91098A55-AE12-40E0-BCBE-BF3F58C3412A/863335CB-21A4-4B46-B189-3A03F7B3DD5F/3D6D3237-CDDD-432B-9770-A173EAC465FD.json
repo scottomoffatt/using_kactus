@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGZmdYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAcHR4fKywtLi8wNkFER0tPV1hZWlteYlUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA18Q6VRoaXMgaW50cm9kdWN0aW9uIHRleHQuIEl0IGhhcyBhIGZpeGVkIHNpemUsIGFuZCBhIGN1c3RvbSBsaW5lIGhlaWdodCwgc28geW91IGNhbiBleHBlcmltZW50IHdpdGggaXQuIExvcmVtIGlwc3VtIGRvbG9yIHNpdCBhbWV0LCBjb25zZWN0ZXR1ciBhZGlwaXNjaW5nIGVsaXQuIENyYXMgZGFwaWJ1cyB2dWxwdXRhdGUuIEZ1c2NlIGV1IGVzdCBhYyBlcm9zIHZ1bHB1dGF0ZSBtb2xsaXMgaW4gYWMgZmVsaXMu0xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgA6AEoANXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXTERIKICUbpCEiIySACIAJgAqAC6QmJiYmgAyADIAMgAyADVNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/8AAAAAAAANIxMjM0WiRjbGFzc25hbWVYJGNsYXNzZXNcTlNEaWN0aW9uYXJ5ojM1WE5TT2JqZWN01jc4OToKOzw9Pj9APltOU0FsaWdubWVudFpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0W05TVGV4dExpc3RzXxAPTlNNYXhMaW5lSGVpZ2h0EASAACNAPAAAAAAAAIAPgBHSEgpCQ6CAENIxMkVGV05TQXJyYXmiRTXSMTJISV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo0hKNV8QEE5TUGFyYWdyYXBoU3R5bGXSCkxNTl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBmAE9MREgpQU1aiUVKAFIAVolRVgBaAF4AYXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDQAAAAAAABZSGVsdmV0aWNh0jEyXF1fEBNOU011dGFibGVEaWN0aW9uYXJ5o1wzNdIxMl9gXxAQTlNGb250RGVzY3JpcHRvcqJhNV8QEE5TRm9udERlc2NyaXB0b3LSMTJjZF8QEk5TQXR0cmlidXRlZFN0cmluZ6JlNV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFoaVRyb290gAEACAARABoAIwAtADIANwBVAFsAYgBrAHIAfwCBAIMAhQFxAXgBgAGLAY8BkQGTAZUBmQGbAZ0BnwGhAc4B4QIDAgoCDwIRAhMCFQIXAhwCHgIgAiICJAImAioCMAI1AjsCRAJJAlQCXQJqAm0CdgKDAo8CmgKsArgCygLMAs4C1wLZAtsC4ALhAuMC6ALwAvMC+AMSAxYDKQMuA0sDTQNPA1YDWQNbA10DYANiA2QDZgN8A5IDmwOlA6oDwAPEA8kD3APfA/ID9wQMBA8EJAQ2BDkEPgAAAAAAAAIBAAAAAAAAAGoAAAAAAAAAAAAAAAAAAARA"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "3D6D3237-CDDD-432B-9770-A173EAC465FD",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 112,
+    "width": 519,
+    "x": 0,
+    "y": 344
+  },
+  "glyphBounds": "{{0, 0}, {1989, 24}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "This introduction te",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "BD847DD7-1436-4B29-8814-8AA4E6A3F808"
+  },
+  "textBehaviour": 1
+}

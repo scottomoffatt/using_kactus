@@ -1,0 +1,87 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9686274509803922,
+        "green": 0.5098039215686274,
+        "red": 0.2431372549019608
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0,
+        "green": 0.7098039215686275,
+        "red": 0.9647058823529412
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3333333333333333,
+        "green": 0.6196078431372549,
+        "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.396078431372549,
+        "green": 0.2549019607843137,
+        "red": 0.0392156862745098
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8,
+        "green": 0.5137254901960784,
+        "red": 0.08235294117647059
+      }
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "42F05D80-6397-4023-9890-E2C582C2ED7F",
+  "foreignSymbols": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "49.3",
+    "build": 51167,
+    "version": 101
+  },
+  "pages": [
+    "1. Archetype Home",
+    " - Template",
+    " - Grid",
+    " - Typography",
+    " - References",
+    "new"
+  ],
+  "userInfo": {
+    "com.invisionlabs.getty0": {
+      "ids": "[]"
+    },
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    },
+    "com.lingoapp.lingo": {
+      "first_version": 89,
+      "min_version": 84,
+      "version": 101
+    }
+  }
+}

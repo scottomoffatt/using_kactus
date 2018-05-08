@@ -1,0 +1,117 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "DB72F259-07A5-4740-857B-299AAE304269",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1024,
+    "width": 768,
+    "x": 4450,
+    "y": 2992
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 99999999
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "803FCE9D-5B0B-404E-9329-BE5090434837"
+    },
+    {
+      "class": "text",
+      "id": "055E3DBE-6D7A-4273-9EA1-2878BE54FCE0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "26DF2F5E-09AD-4E0F-A389-B4C6C5D2DCA8"
+    },
+    {
+      "class": "text",
+      "id": "E2FC0D64-B271-49CE-BF5A-AA776AB4A75A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DC66EB35-0A45-46D2-A590-BB145066AF09"
+    },
+    {
+      "class": "group",
+      "id": "A38DDFB4-FF21-4FE4-B9D9-B1561ECE8AEE"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 101,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 8,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 21,
+    "isEnabled": false,
+    "numberOfColumns": 6,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 726
+  },
+  "name": "0.0 Page (M) Copy",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "iPad",
+    "offersLandscapeVariant": 1,
+    "width": 768
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

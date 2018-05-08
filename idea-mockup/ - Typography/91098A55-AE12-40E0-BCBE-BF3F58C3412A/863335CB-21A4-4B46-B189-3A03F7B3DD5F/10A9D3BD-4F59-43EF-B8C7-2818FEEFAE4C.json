@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGkpNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QJAcIERIYJSYnKCkxNDo+QkpLTE1OUlZiY2RlZmdpanaCg4aKjlUkbnVsbNQJCgsMDQ4PEFhOU1N0cmluZ18QD05TQXR0cmlidXRlSW5mb1xOU0F0dHJpYnV0ZXNWJGNsYXNzgAKAIYADgCNfEBtoMi4gVGhpcyBpcyBhIGxhcmdlIGhlYWRlci7SEwwUF1pOUy5vYmplY3RzohUWgASAHYAg0xkTDBofJFdOUy5rZXlzpBscHR6ABYAGgAeACKQgISIjgAmADYAVgByAG18QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlVk5TS2VybtQqKwwsLS4vMFpOU1RhYlN0b3BzW05TQWxpZ25tZW50W05TVGV4dExpc3RzgAAQBIAMgArSEwwyM6CAC9I1Njc4WiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaI3OVhOU09iamVjdNI1Njs8XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjOz05XxAQTlNQYXJhZ3JhcGhTdHlsZdIMP0BBXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFIAO0xkTDENGSaJERYAPgBCiR0iAEYASgBNfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAPgAAAAAAAF5IZWx2ZXRpY2EtQm9sZNI1Nk9QXxATTlNNdXRhYmxlRGljdGlvbmFyeaNPUTlcTlNEaWN0aW9uYXJ50jU2U1RfEBBOU0ZvbnREZXNjcmlwdG9yolU5XxAQTlNGb250RGVzY3JpcHRvctMZEwxXXCSkWFlaW4AWgBeAGIAZpF1dXV2AGoAagBqAGoAbU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/wAAAAAAAA0jU2UWiiUTkjv9MzM0AAAADTGRMMa3AkpBscHR6ABYAGgAeACKQgIXN0gAmADYAegB+AG9MZEwx3fCSkWFlaW4AWgBeAGIAZpF1dXV2AGoAagBqAGoAbEADSNTaEhV5OU011dGFibGVBcnJheaOENznShwyIiVdOUy5kYXRhRBoAAQGAItI1NouMXU5TTXV0YWJsZURhdGGji405Vk5TRGF0YdI1No+QXxASTlNBdHRyaWJ1dGVkU3RyaW5nopE5XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0ZSVVHJvb3SAAQAIABEAGgAjAC0AMgA3AF4AZABtAHYAiACVAJwAngCgAKIApADCAMcA0gDVANcA2QDbAOIA6gDvAPEA8wD1APcA/AD+AQABAgEEAQYBGQE7AWgBbwF4AYMBjwGbAZ0BnwGhAaMBqAGpAasBsAG7AcQBzAHPAdgB3QH3AfsCDgITAjACMgI0AjsCPgJAAkICRQJHAkkCSwJhAncCgAKPApQCqgKuArsCwALTAtYC6QLwAvUC9wL5AvsC/QMCAwQDBgMIAwoDDAMQAxYDGwMhAyoDLwMyAzsDQgNHA0kDSwNNA08DVANWA1gDWgNcA14DZQNqA2wDbgNwA3IDdwN5A3sDfQN/A4EDgwOIA5cDmwOgA6gDrQOvA7QDwgPGA80D0gPnA+oD/wQRBBQEGQAAAAAAAAIBAAAAAAAAAJYAAAAAAAAAAAAAAAAAAAQb"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "10A9D3BD-4F59-43EF-B8C7-2818FEEFAE4C",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 360,
+    "x": 0,
+    "y": 72
+  },
+  "glyphBounds": "{{0, 0}, {357, 36}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 0,
+  "name": "h2. This is a large",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "C516CC27-0539-44FE-BD0A-1CE847C7D26A"
+  },
+  "textBehaviour": 0
+}

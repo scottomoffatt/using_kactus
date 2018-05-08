@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbW5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAeHyAhIi0wNjo+RkdISUpOUl5fYGFiY2RlZmhpVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADXxAiaDIuIFRoaXMgaXMgYSBsYXJnZSBtb2JpbGUgaGVhZGVyLtMREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiADIAUgB6AHV8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlVk5TS2VybtYjJCUmCicoKSorLCpbTlNBbGlnbm1lbnRaTlNUYWJTdG9wc18QD05TTWluTGluZUhlaWdodFtOU1RleHRMaXN0c18QD05TTWF4TGluZUhlaWdodBAEgAAjQDoAAAAAAACACYAL0hIKLi+ggArSMTIzNFokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiMzVYTlNPYmplY3TSMTI3OF8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozc5NV8QEE5TUGFyYWdyYXBoU3R5bGXSCjs8PV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBOADdMREgo/QkWiQEGADoAPokNEgBCAEYASXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDQAAAAAAABeSGVsdmV0aWNhLUJvbGTSMTJLTF8QE05TTXV0YWJsZURpY3Rpb25hcnmjS001XE5TRGljdGlvbmFyedIxMk9QXxAQTlNGb250RGVzY3JpcHRvcqJRNV8QEE5TRm9udERlc2NyaXB0b3LTERIKU1gdpFRVVleAFYAWgBeAGKRZWltcgBmAGoAbgByAHVNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/1VVVVUwrtSM/8AAAAAAAACM/1VVVVUwrtSM/1VVVVUwrtdIxMk1nok01Ir5MzM3SMTJqa18QEk5TQXR0cmlidXRlZFN0cmluZ6JsNV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFvcFRyb290gAEACAARABoAIwAtADIANwBaAGAAZwBwAHcAhACGAIgAigCvALYAvgDJAM4A0ADSANQA1gDbAN0A3wDhAOMA5QD4ARoBRwFOAVsBZwFyAYQBkAGiAaQBpgGvAbEBswG4AbkBuwHAAcsB1AHcAd8B6AHtAgcCCwIeAiMCQAJCAkQCSwJOAlACUgJVAlcCWQJbAnEChwKQAp8CpAK6Ar4CywLQAuMC5gL5AwADBQMHAwkDCwMNAxIDFAMWAxgDGgMcAyADJgMrAzEDOgNDA0wDVQNaA10DYgNnA3wDfwOUA6YDqQOuAAAAAAAAAgEAAAAAAAAAcQAAAAAAAAAAAAAAAAAAA7A="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "50E36F83-773E-4950-AC0F-AA778F2EBC2E",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 52,
+    "width": 272,
+    "x": 24,
+    "y": 88
+  },
+  "glyphBounds": "{{0, -1}, {306, 24}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "h2. This is a large",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "C522B5F5-710F-471E-AF21-1A68B88CBFB6"
+  },
+  "textBehaviour": 1
+}

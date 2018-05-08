@@ -1,0 +1,35 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "0D0FD11D-B603-4FA9-A84D-ED052D9A141C",
+  "name": "Gutters / Large",
+  "value": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.4000000059604645
+    },
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3333333333333333,
+          "green": 0.6196078431372549,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "0D0FD11D-B603-4FA9-A84D-ED052D9A141C",
+    "startDecorationType": 0
+  }
+}
